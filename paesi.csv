@@ -1,0 +1,198 @@
+﻿nome;clima;natura;citta;budget;difficolta;servizi
+Giappone;Temperato;4;5;3;2;Eccellenti
+Islanda;Freddo;5;2;3;3;Buoni
+Thailandia;Caldo;4;3;1;2;Medi
+Perù;Temperato;5;2;2;4;Base
+Spagna;Caldo;3;4;2;1;Eccellenti
+Marocco;Caldo;4;4;1;3;Medi
+Norvegia;Freddo;5;3;3;2;Eccellenti
+Egitto;Caldo;3;4;1;3;Medi
+Australia;Caldo;5;4;3;2;Eccellenti
+Italia;Temperato;4;5;2;1;Eccellenti
+Francia;Temperato;4;5;3;1;Eccellenti
+Grecia;Caldo;4;4;2;1;Buoni
+Portogallo;Temperato;4;4;2;1;Buoni
+Germania;Temperato;3;5;2;1;Eccellenti
+Regno Unito;Temperato;3;5;3;1;Eccellenti
+Svizzera;Temperato;5;4;3;1;Eccellenti
+Austria;Temperato;5;4;2;1;Eccellenti
+Olanda;Temperato;2;5;3;1;Eccellenti
+Irlanda;Temperato;4;4;3;1;Buoni
+Svezia;Freddo;5;4;3;1;Eccellenti
+Finlandia;Freddo;5;3;3;1;Eccellenti
+Danimarca;Temperato;3;4;3;1;Eccellenti
+Canada;Freddo;5;4;3;2;Eccellenti
+Stati Uniti;Temperato;4;5;3;1;Eccellenti
+Messico;Caldo;4;4;1;2;Medi
+Costarica;Caldo;5;2;2;2;Buoni
+Brasile;Caldo;5;3;2;3;Medi
+Argentina;Temperato;5;4;1;2;Medi
+Cile;Temperato;5;3;2;2;Buoni
+Colombia;Caldo;5;3;1;3;Medi
+Cuba;Caldo;4;3;1;2;Base
+Kenya;Caldo;5;2;2;3;Medi
+Tanzania;Caldo;5;1;2;3;Medi
+Sudafrica;Temperato;5;4;2;2;Buoni
+Madagascar;Caldo;5;1;1;4;Base
+Giordania;Caldo;4;3;2;2;Buoni
+Emirati Arabi;Caldo;2;4;3;1;Eccellenti
+Oman;Caldo;4;2;2;2;Buoni
+India;Caldo;4;5;1;4;Medi
+Nepal;Temperato;5;2;1;4;Base
+Maldive;Caldo;5;1;3;1;Eccellenti
+Sri Lanka;Caldo;4;2;1;2;Medi
+Vietnam;Caldo;4;3;1;2;Medi
+Cambogia;Caldo;3;4;1;3;Base
+Indonesia;Caldo;5;3;1;2;Medi
+Filippine;Caldo;5;2;1;3;Base
+Malaysia;Caldo;4;4;1;2;Buoni
+Singapore;Caldo;2;5;3;1;Eccellenti
+Corea del Sud;Temperato;3;5;2;1;Eccellenti
+Nuova Zelanda;Temperato;5;3;3;2;Eccellenti
+Turchia;Temperato;4;5;1;2;Buoni
+Croazia;Temperato;4;3;2;1;Buoni
+Albania;Temperato;4;3;1;2;Medi
+Montenegro;Temperato;4;2;1;2;Medi
+Repubblica Ceca;Temperato;2;5;1;1;Eccellenti
+Ungheria;Temperato;2;5;1;1;Buoni
+Polonia;Temperato;3;4;1;1;Buoni
+Romania;Temperato;4;3;1;2;Medi
+Georgia;Temperato;5;3;1;3;Medi
+Belgio;Temperato;2;5;3;1;Eccellenti
+Malta;Caldo;3;4;2;1;Buoni
+Cipro;Caldo;3;3;2;1;Buoni
+Slovenia;Temperato;5;3;2;1;Eccellenti
+Slovacchia;Temperato;4;3;1;1;Buoni
+Bulgaria;Temperato;4;3;1;2;Medi
+Serbia;Temperato;3;4;1;2;Medi
+Bosnia ed Erzegovina;Temperato;4;3;1;2;Medi
+Estonia;Freddo;3;4;2;1;Eccellenti
+Lettonia;Freddo;3;3;1;1;Buoni
+Lituania;Freddo;3;3;1;1;Buoni
+Lussemburgo;Temperato;2;3;3;1;Eccellenti
+Panama;Caldo;4;3;2;2;Buoni
+Guatemala;Caldo;4;3;1;3;Medi
+Giamaica;Caldo;4;2;2;2;Medi
+Repubblica Dominicana;Caldo;4;2;2;2;Buoni
+Bahamas;Caldo;4;1;3;1;Eccellenti
+Uruguay;Temperato;3;3;2;1;Buoni
+Bolivia;Temperato;5;2;1;4;Base
+Ecuador;Caldo;5;3;1;3;Medi
+Venezuela;Caldo;5;2;1;4;Base
+Belize;Caldo;5;1;2;2;Medi
+Nicaragua;Caldo;4;2;1;3;Base
+Honduras;Caldo;4;2;1;3;Base
+Cina;Temperato;4;5;2;3;Buoni
+Taiwan;Caldo;3;5;2;1;Eccellenti
+Laos;Caldo;4;2;1;3;Base
+Mongolia;Freddo;5;1;1;4;Base
+Uzbekistan;Temperato;3;4;1;3;Medi
+Armenia;Temperato;4;3;1;2;Medi
+Kazakistan;Freddo;4;3;1;3;Medi
+Israele;Caldo;3;4;3;2;Eccellenti
+Qatar;Caldo;1;4;3;1;Eccellenti
+Arabia Saudita;Caldo;2;3;3;2;Buoni
+Bhutan;Temperato;5;2;3;4;Buoni
+Bangladesh;Caldo;3;3;1;4;Base
+Tunisia;Caldo;3;3;1;2;Medi
+Algeria;Caldo;4;2;1;3;Medi
+Namibia;Caldo;5;2;3;3;Buoni
+Botswana;Caldo;5;1;3;3;Buoni
+Zimbabwe;Caldo;5;1;2;3;Medi
+Mauritius;Caldo;4;2;3;1;Eccellenti
+Capo Verde;Caldo;4;1;2;2;Medi
+Senegal;Caldo;3;2;1;3;Base
+Etiopia;Temperato;4;3;1;4;Base
+Uganda;Caldo;5;1;2;3;Base
+Figi;Caldo;5;1;3;2;Buoni
+Polinesia Francese;Caldo;5;1;3;1;Eccellenti
+Vanuatu;Caldo;5;1;2;3;Base
+Samoa;Caldo;4;1;2;2;Medi
+Andorra;Temperato;4;3;3;1;Eccellenti
+Liechtenstein;Temperato;4;3;3;1;Eccellenti
+Monaco;Temperato;2;4;3;1;Eccellenti
+San Marino;Temperato;3;4;2;1;Eccellenti
+Città del Vaticano;Temperato;1;5;3;1;Eccellenti
+Macedonia del Nord;Temperato;4;3;1;2;Medi
+Kosovo;Temperato;3;3;1;2;Medi
+Moldavia;Temperato;3;3;1;2;Medi
+Ucraina;Temperato;3;4;1;4;Medi
+Bielorussia;Temperato;3;3;1;3;Medi
+Antigua e Barbuda;Caldo;4;1;3;1;Buoni
+Barbados;Caldo;4;2;3;1;Eccellenti
+Dominica;Caldo;5;1;2;2;Buoni
+Grenada;Caldo;4;1;2;2;Buoni
+Haiti;Caldo;3;2;1;5;Base
+Saint Kitts e Nevis;Caldo;4;1;3;1;Buoni
+Saint Lucia;Caldo;5;2;3;1;Eccellenti
+Saint Vincent e Grenadine;Caldo;4;1;2;2;Buoni
+Trinidad e Tobago;Caldo;4;3;2;2;Buoni
+El Salvador;Caldo;4;3;1;3;Medi
+Guyana;Caldo;5;2;2;4;Base
+Suriname;Caldo;5;2;2;3;Base
+Paraguay;Caldo;3;3;1;2;Medi
+Corea del Nord;Temperato;3;2;2;5;Base
+Brunei;Caldo;4;3;3;2;Eccellenti
+Timor Est;Caldo;4;2;1;4;Base
+Myanmar;Caldo;4;4;1;4;Base
+Afghanistan;Temperato;4;2;1;5;Base
+Pakistan;Caldo;5;3;1;4;Medi
+Kirghizistan;Temperato;5;2;1;3;Medi
+Tagikistan;Temperato;5;2;1;4;Base
+Turkmenistan;Caldo;3;3;2;4;Medi
+Bahrein;Caldo;1;4;3;1;Eccellenti
+Kuwait;Caldo;1;4;3;1;Eccellenti
+Libano;Temperato;3;4;2;3;Buoni
+Siria;Caldo;3;4;1;5;Base
+Iraq;Caldo;3;3;1;5;Base
+Iran;Temperato;4;5;1;3;Medi
+Yemen;Caldo;4;3;1;5;Base
+Palestina;Temperato;3;4;1;4;Medi
+Azerbaigian;Temperato;4;4;1;2;Buoni
+Libia;Caldo;3;2;1;5;Base
+Sudan;Caldo;3;2;1;5;Base
+Benin;Caldo;3;2;1;3;Base
+Burkina Faso;Caldo;3;2;1;4;Base
+Costa d'Avorio;Caldo;4;3;1;3;Medi
+Gambia;Caldo;3;2;1;2;Medi
+Ghana;Caldo;4;3;1;2;Buoni
+Guinea;Caldo;4;2;1;4;Base
+Guinea-Bissau;Caldo;4;1;1;4;Base
+Liberia;Caldo;4;2;1;4;Base
+Mali;Caldo;3;3;1;5;Base
+Mauritania;Caldo;3;2;1;4;Base
+Niger;Caldo;3;1;1;5;Base
+Nigeria;Caldo;3;4;1;3;Medi
+Sierra Leone;Caldo;4;2;1;4;Base
+Togo;Caldo;3;2;1;3;Base
+Camerun;Caldo;4;3;1;3;Medi
+Repubblica Centrafricana;Caldo;4;1;1;5;Base
+Ciad;Caldo;3;1;1;5;Base
+Repubblica del Congo;Caldo;4;2;2;4;Base
+Repubblica Democratica del Congo;Caldo;5;2;1;5;Base
+Guinea Equatoriale;Caldo;4;2;2;3;Medi
+Gabon;Caldo;5;2;2;3;Medi
+Sao Tomé e Principe;Caldo;5;1;2;2;Medi
+Burundi;Temperato;4;2;1;4;Base
+Comore;Caldo;4;1;2;3;Base
+Gibuti;Caldo;3;2;2;3;Medi
+Eritrea;Caldo;3;2;1;4;Base
+Ruanda;Temperato;4;3;2;2;Buoni
+Seychelles;Caldo;5;1;3;1;Eccellenti
+Somalia;Caldo;3;1;1;5;Base
+Sudan del Sud;Caldo;4;1;1;5;Base
+Angola;Caldo;4;3;2;3;Medi
+Lesotho;Temperato;4;2;1;3;Medi
+Eswatini;Temperato;4;2;1;2;Buoni
+Malawi;Temperato;4;2;1;3;Medi
+Mozambico;Caldo;4;2;1;3;Medi
+Zambia;Caldo;5;2;2;3;Buoni
+Kiribati;Caldo;4;1;2;4;Base
+Isole Marshall;Caldo;4;1;2;3;Base
+Micronesia;Caldo;4;1;2;4;Base
+Nauru;Caldo;2;1;2;4;Base
+Palau;Caldo;5;1;3;2;Buoni
+Papua Nuova Guinea;Caldo;5;2;2;4;Base
+Isole Salomone;Caldo;4;1;2;4;Base
+Tonga;Caldo;4;1;2;3;Medi
+Tuvalu;Caldo;3;1;2;4;Base
